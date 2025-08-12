@@ -1,1 +1,2 @@
 "arquivo criado na nova-feature." 
+"Mais conte£do adicionado antes do merge." 
